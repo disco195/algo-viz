@@ -15,8 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.4.4",
-    "@babel/types": "^7.4.0"
+    "@babel/core": "^7.19.3",
+    "@babel/types": "^7.19.3"
   },
   "devDependencies": {
     "lodash": "^4.17.11",
