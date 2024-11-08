@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/omarjuice/algo-viz#readme",
   "dependencies": {
-    "concurrently": "^4.1.0"
+    "concurrently": "^5.0.1"
   }
 }
